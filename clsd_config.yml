@@ -1,4 +1,4 @@
 ---
 com.fedex.test.value: test value
 propsPath: "classpath:/cfg/clsd.properties.${clsd.level}"
-message: "hey"
+message: hey
